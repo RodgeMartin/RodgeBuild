@@ -1,0 +1,13 @@
+{
+  "geode": "5.0.0-alpha.2",
+  "gd": {
+    "android": "2.208"
+  },
+  "id": "rodgemartin.rodgebuild",
+  "name": "RodgeBuild",
+  "version": "v0.1.0",
+  "developer": "RodgeMartin",
+  "description": "An early Android editor UI prototype for a neon template-based decoration assistant.",
+  "tags": ["editor", "utility", "enhancement"],
+  "settings": {}
+}
